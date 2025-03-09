@@ -28,13 +28,13 @@
 1. 克隆本仓库：
 
    ```bash
-   git clone https://github.com/yourusername/python-crawler-learning.git
+   git clone https://github.com/yourusername/Python-Spider-Learn.git
    ```
 
 2. 进入项目目录：
 
    ```bash
-   cd python-crawler-learning
+   cd Python-Spider-Learn
    ```
 
 3. 安装依赖：
